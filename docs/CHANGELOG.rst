@@ -4,6 +4,7 @@ Changelog
 
 * Replace Boolean ``debug`` option in  ``setup_logging`` by more flexible integer
   ``level`` parameter.
+* Change handling of lowercase module names
 
 v0.1.28 (2023-09-29)
 ------------------------------------------
